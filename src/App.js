@@ -108,7 +108,7 @@ function App() {
               <span className="contact-icon">💻</span>
               GitHub
             </a>
-            <a href="https://linkedin.com" className="contact-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://linkedin.com/in/zohaib-ali" className="contact-link" target="_blank" rel="noopener noreferrer">
               <span className="contact-icon">💼</span>
               LinkedIn
             </a>
